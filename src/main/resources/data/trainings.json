@@ -1,0 +1,20 @@
+[
+  {
+    "id": "11111111-2222-3333-4444-555555555555",
+    "traineeId": "d4e5f6a7-b8c9-0123-defa-234567890123",
+    "trainerId": "e5f6a7b8-c9d0-1234-efab-345678901234",
+    "trainingName": "Morning Flow Yoga",
+    "trainingType": "YOGA",
+    "trainingDate": "2026-06-10",
+    "duration": 60
+  },
+  {
+    "id": "22222222-3333-4444-5555-666666666666",
+    "traineeId": "d4e5f6a7-b8c9-0123-defa-234567890123",
+    "trainerId": "f6a7b8c9-d0e1-2345-fabc-456789012345",
+    "trainingName": "Full Body Strength",
+    "trainingType": "FITNESS",
+    "trainingDate": "2026-06-12",
+    "duration": 45
+  }
+]
