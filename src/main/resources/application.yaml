@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: gymproject
+
+storage:
+  files:
+    trainees: classpath:data/trainees.json
+    trainers: classpath:data/trainers.json
+    trainings: classpath:data/trainings.json
